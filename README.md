@@ -1,5 +1,4 @@
-# Python
-Collection of python topics with practice sets and assignment.
+Python learning track
 1.Introduction to Python
 2.Vaariables
 3.Conditional Statements and Loops
