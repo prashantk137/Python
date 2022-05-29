@@ -5,7 +5,7 @@ Python learning track
 4.Lists
 5.Strings
 6.Tuples, Dictionaries and Sets
-7.Function
+7.Functions
 8.OOPs
 9.Exception Handling
 10.Modules & Packages
